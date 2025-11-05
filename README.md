@@ -69,8 +69,7 @@ FinConnect is a React-based web application designed for both personal and colla
 
 | Dashboard | Project Workspace |
 | :---: | :---: |
-| ![Dashboard Screenshot](https://via.placeholder.com/400x250.png?text=Dashboard+View) | ![Project Workspace Screenshot](https://via.placeholder.com/400x250.png?text=Project+Workspace) |
-| **Dashboard** | **Project Workspace** |
+| ![Dashboard](image.png) | ![Project Workspace](image-1.png) |
 
 </div>
 
