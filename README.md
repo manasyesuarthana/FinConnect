@@ -39,6 +39,8 @@
 
 ## 📝 About the Project
 
+This project serves as our group's submission to the 5th, 3-hour pitch and prototype Hackathon! Organized by UoB Business Society.
+
 FinConnect is a React-based web application designed for both personal and collaborative financial management. It empowers users to effortlessly track their spending, manage budgets for various projects (like vacations or home renovations), and engage with a community of fellow users. The application also includes an AI-powered assistant to provide valuable financial insights and advice.
 
 ---
